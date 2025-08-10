@@ -16,7 +16,7 @@ We use separate branches for development work and merge them into the `main` bra
 
 1️⃣ **Clone the Repository**
 ```bash
-git clone <repo-link>
+git clone <https://github.com/Divyam0017/task4-git-workflow.git>
 cd task4-git-workflow
 
 2️⃣ Create and Switch to a New Branch (dev)
